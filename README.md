@@ -99,3 +99,7 @@ WHERE
     OR price_per_unit IS NULL
     OR cogs IS NULL
     OR total_sale IS NULL;
+
+**3. Data Analysis & Findings**
+
+The following SQL queries were developed to answer specific business questions:
