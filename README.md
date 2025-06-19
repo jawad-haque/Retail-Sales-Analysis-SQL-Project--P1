@@ -86,7 +86,6 @@ WHERE
         OR cogs IS NULL
         OR total_sale IS NULL;
         
--- DELETE NULL VALUES
 DELETE FROM retail_sales 
 WHERE
     transaction_id IS NULL
