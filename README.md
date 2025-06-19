@@ -43,7 +43,7 @@ This project is designed to demonstrate SQL skills and techniques typically used
 
 **2. Data Exploration & Cleaning**
 
--- **Record Count**: Determine the total number of records in the dataset.  
--- **Customer Count**: Find out how many unique customers are in the dataset.  
--- **Category Count**: Identify all unique product categories in the dataset.  
--- **Null Value Check**: Check for any null values in the dataset and delete records with missing data.
+- **Record Count**: Determine the total number of records in the dataset.  
+- **Customer Count**: Find out how many unique customers are in the dataset.  
+- **Category Count**: Identify all unique product categories in the dataset.  
+- **Null Value Check**: Check for any null values in the dataset and delete records with missing data.
